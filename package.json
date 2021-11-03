@@ -34,7 +34,7 @@
     "socket.io": "^2.2.0",
     "socket.io-client": "latest",
     "twilio": "^3.33.0",
-    "validator": "^11.0.0"
+    "validator": "^13.7.0"
   },
   "devDependencies": {
     "babel": "^6.23.0",
